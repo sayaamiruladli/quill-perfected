@@ -8,8 +8,9 @@ Quill rich text editor ready for production. All toolbar is already enable (you 
 
 ## Usage:
 
-include all those file into your html document.
+1. include all those file into your html document.
 
+2. Include this:
 ```html
 
 <div id="editor"></div>
